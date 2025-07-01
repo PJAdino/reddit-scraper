@@ -28,5 +28,5 @@ This project is a simple, beginner-friendly Python scraper that uses the Reddit 
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/reddit-job-scraper.git
+git clone https://github.com/PJAdino/reddit-job-scraper.git
 cd reddit-job-scraper
